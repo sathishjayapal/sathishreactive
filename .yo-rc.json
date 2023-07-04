@@ -1,0 +1,13 @@
+{
+  "generator-springboot": {
+    "appName": "sathishreactive",
+    "packageName": "me.sathish.reactiveproj",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "flywaydb",
+    "dbMigrationFormat": "yaml",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "me/sathish/reactiveproj",
+    "flywayMigrationCounter": 2
+  }
+}
